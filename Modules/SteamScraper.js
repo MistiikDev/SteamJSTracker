@@ -10,7 +10,7 @@ import StealthPlugin from 'puppeteer-extra-plugin-stealth'
 
 puppeteer.use(StealthPlugin())
 let user = new SteamUser();
-const client = new PasteClient("FXO996-IHObLNl16seBrh_-_tLy60B3Q");
+const client = new PasteClient("");
 
 let canPublishForDev = true;
 
