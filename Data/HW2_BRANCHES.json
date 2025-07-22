@@ -1,0 +1,28 @@
+{
+	"branches": [
+		"public",
+		"thumper_dev_development",
+		"thumper_dev_shipping",
+		"thumper_flatmode_development",
+		"thumper_flatmode_shipping",
+		"thumper_localization",
+		"thumper_main_development",
+		"thumper_main_shipping",
+		"thumper_misc_test",
+		"thumper_pax_development",
+		"thumper_pax_shipping",
+		"thumper_performance",
+		"thumper_performance_prev",
+		"thumper_pod_a",
+		"thumper_pod_b",
+		"thumper_pod_c",
+		"thumper_pod_d",
+		"thumper_pod_e",
+		"thumper_pod_f",
+		"thumper_pod_g",
+		"thumper_release_shipping",
+		"thumper_stewie_test",
+		"thumper_flatmoderelease_shipping",
+		"thumper_crash_test"
+	]
+}

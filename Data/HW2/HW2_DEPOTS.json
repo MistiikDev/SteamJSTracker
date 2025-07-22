@@ -1,0 +1,325 @@
+{
+	"228989": {
+		"config": {
+			"oslist": "windows"
+		},
+		"depotfromapp": "228980",
+		"sharedinstall": "1"
+	},
+	"228990": {
+		"config": {
+			"oslist": "windows"
+		},
+		"depotfromapp": "228980",
+		"sharedinstall": "1"
+	},
+	"2287521": {
+		"encryptedmanifests": {
+			"thumper_dev_development": {
+				"download": "F81AC36B92974EB54B17E008AF2C3C67",
+				"gid": "3FCA4202A898248656AF17A55CC1A4BB",
+				"size": "E13AFA3A800F33F37B5AAB5DF448DFC3"
+			},
+			"thumper_dev_shipping": {
+				"download": "6B370B6FB764F7013ADA03C7807C14BA",
+				"gid": "73BB3EA09EC854F38BDC9B12579F8486",
+				"size": "C73F7EA304DE2E0A047D2224F5472807"
+			},
+			"thumper_flatmode_development": {
+				"download": "B1AB1F36247A9FD1D23E77DFACB95E9D",
+				"gid": "E7B4D9202731C425F5AE3F58E407D05B",
+				"size": "6C0594BC6DA7D17593BE431D4ECCDA87"
+			},
+			"thumper_flatmode_shipping": {
+				"download": "181CC542DD460B8874F93DC8BA9DF0E6",
+				"gid": "422DB9BC730A641D2BB940281A10E319",
+				"size": "7BB2A86EE38155DCBCEE5BEF3857F1A8"
+			},
+			"thumper_localization": {
+				"download": "7FEFED067D0A5F9393A6E28F6010688E",
+				"gid": "96AC943C50A5D2B12BBAFB4438336AC6",
+				"size": "751D7B858BA762420467AF522752AEA2"
+			},
+			"thumper_main_development": {
+				"download": "1CB9F18592ED8486A9E35B6A59A878F7",
+				"gid": "66CE63482CC9B9759256830F38B0A267",
+				"size": "4D7E98D1506F1885E644881AB0A36B50"
+			},
+			"thumper_main_shipping": {
+				"download": "C7BEB085D0D2314949CF2B183398A53B",
+				"gid": "287502A8F3D7D8710A288C3F59F3B05E",
+				"size": "6D051AF516477942702DD180960A199A"
+			},
+			"thumper_misc_test": {
+				"download": "1E2C6BDEC6408588A5002FD43E753903",
+				"gid": "3F1B80214DA8C5013D7BD38D930EB782",
+				"size": "833D1BEE6558005641D56E3A931A4D73"
+			},
+			"thumper_pax_development": {
+				"download": "244A1FD9C6A72EFC6977EB267066D4DD",
+				"gid": "AB5DAE672D48654B2391C947E383A289",
+				"size": "CC58BA6B7B690C5987B01B7705264844"
+			},
+			"thumper_pax_shipping": {
+				"download": "AA27BF0009473BEEFC205BD4516F4999",
+				"gid": "0F317374341E586F266C3CBE7196A273",
+				"size": "A1C7AD7314A313DD67931A68278CFF2E"
+			},
+			"thumper_performance": {
+				"download": "E2E3D5B24956841317699D1C3310D9F3",
+				"gid": "C221165C14A5F6B65CCA83DC1F127BA4",
+				"size": "0F8D5EBC8EFDA341BE300B5D582B8060"
+			},
+			"thumper_performance_prev": {
+				"download": "FB854B5D2CC35C9776B9CAEE73D89BEB",
+				"gid": "6EC40DBDA2705B443B5CFCBC735FECEB",
+				"size": "076D5E690CA4AB0396460867DA422631"
+			},
+			"thumper_pod_a": {
+				"download": "531F3169942E809B89915BA285BDD169",
+				"gid": "21FB3A6FC96DDCF164F7067E0CAF1046",
+				"size": "2C00602E450BC8B79BEA26AB716770C8"
+			},
+			"thumper_pod_b": {
+				"download": "0DCD38DEF16B5E93C602B85632191B65",
+				"gid": "BDC601695C12C85F490E8ACD17FBF3B7",
+				"size": "4BA7F24148BA206F10AE3C3791651A6C"
+			},
+			"thumper_pod_c": {
+				"download": "B0CB8ED232DDC49DC907FC37370B3BAC",
+				"gid": "1B012F971CB64861867A6517D2ED829B",
+				"size": "4231EB25685675287699253B1E75BB7D"
+			},
+			"thumper_pod_d": {
+				"download": "DD846E55710E1E6A6B38DBE519F502FB",
+				"gid": "B77DFC28070B3BEB5A0F4B89C691AAC2",
+				"size": "F4DFFBA26B8086493BCAF4E74254D94A"
+			},
+			"thumper_pod_e": {
+				"download": "944EC5859A883388FD62134AB98E059A",
+				"gid": "EF3429654401668E5052D47021499913",
+				"size": "5E3268F714B84A1E4B7CA6F315ECC6DC"
+			},
+			"thumper_pod_f": {
+				"download": "7149F923C5297CDFB5759BA1AD0255C7",
+				"gid": "57217E00BF39261A2F3C442437A67588",
+				"size": "D7A42E081C6D0543693544DB88535E56"
+			},
+			"thumper_pod_g": {
+				"download": "68BEB64756FB0C0AEFAD0AA0E0084617",
+				"gid": "642272354916B99C1614D08AE4505640",
+				"size": "75E9F75F9DEC2C954EEFCF4FDECA8B7A"
+			},
+			"thumper_release_shipping": {
+				"download": "9DD2CA01E79C1DB0F3EE0776486A0B40",
+				"gid": "64FA15DDD918775D04430A64BC84E346",
+				"size": "F34D36BC9C2C366557CC7122626EEEE0"
+			},
+			"thumper_stewie_test": {
+				"download": "503454A2D2AC29AE95BD08E642C4F866",
+				"gid": "94340F619BB87652757D469CB0CED28C",
+				"size": "DFBD9C7B8698397D16E52496AE4E4893"
+			}
+		},
+		"manifests": {
+			"public": {
+				"download": "7692803952",
+				"gid": "2790921953005658007",
+				"size": "8002750281"
+			}
+		}
+	},
+	"2609630": {
+		"dlcappid": "2609630",
+		"encryptedmanifests": {
+			"thumper_dev_development": {
+				"download": "56D99E181FB7AFB5CE6761C72FB2E461",
+				"gid": "D7670B59B827C081C8C1DD5B0EC9E821",
+				"size": "68CDFFCE881A66C4C614FE81A375BFD4"
+			},
+			"thumper_dev_shipping": {
+				"download": "97AF7CADCC4CF5BD7574EA0BEF4C6C7B",
+				"gid": "3B6A398318547FFCA530A08DFD6A196F",
+				"size": "8BA1ED3BA0684CFC55CC5FC95DD1036C"
+			},
+			"thumper_localization": {
+				"download": "13A0573DBCD7BBC4CFB7EBB374745F46",
+				"gid": "776E0E810BF432D599431D3308F4B70E",
+				"size": "007D839758CD1354AE6C86E3342D5A60"
+			},
+			"thumper_main_development": {
+				"download": "9F4D44B726D0D039DA0D61E9F3367DD5",
+				"gid": "3BFA0714CAB3961E738989854AF2A13C",
+				"size": "8366068676DA149594723C2D562DEBFF"
+			},
+			"thumper_misc_test": {
+				"download": "102997622C7FF91C9FB266DD740136A5",
+				"gid": "B57BBAD23D76D0F85A924063AC4D073F",
+				"size": "B45FF358255826A8C9D1C75A26A4D508"
+			},
+			"thumper_performance": {
+				"download": "FD44A3E77161E921DC8EFEC7AF7A4812",
+				"gid": "94EB69B970AE34C69733DAC7261CC659",
+				"size": "7267E27976B660487231B74A42E1CB86"
+			},
+			"thumper_performance_prev": {
+				"download": "B00B89E4BDEF781F96BB8FB561ED49EC",
+				"gid": "2F4E3D9171D8BF898AC7B6679A1B270C",
+				"size": "3C49A37F5D9F9CB48F1A550728C18137"
+			},
+			"thumper_pod_a": {
+				"download": "7FC994D03388B2535B74ECF4CA90CCC3",
+				"gid": "78D93656D6AAB239D9200188A44E8C5A",
+				"size": "F261F7A1C8342B7225B3E6C12684CE7B"
+			},
+			"thumper_pod_b": {
+				"download": "D52FDB2BF65633BD3E6DDAD9F6B08E9C",
+				"gid": "C34A298C9911E6D7C843092EF872AE6E",
+				"size": "27B75564BE1715C8BEFA7FED60F99384"
+			},
+			"thumper_pod_c": {
+				"download": "0F509D96F390AAA214C7A498D850C071",
+				"gid": "1BBA29DED139A5FFEA737114DF0D0768",
+				"size": "8E768972F916AC3F86F961A01CEC8D02"
+			},
+			"thumper_pod_d": {
+				"download": "B4D83FA15E54E2A2555B926A3E9EA9B8",
+				"gid": "AC342F9B72E3F00CD325772C2DB5C199",
+				"size": "F77B1DF35D2E58671F7CB9F0EBA6B224"
+			},
+			"thumper_pod_e": {
+				"download": "382F81D6A05BDA444AD1231ABAEF84A7",
+				"gid": "77AAFE2EEFB30B3106A2E29721CB1936",
+				"size": "015E92F2FD4B876365DB6F3E3163B17E"
+			},
+			"thumper_pod_f": {
+				"download": "E90EB4552BB32BCD70568A558AC154B3",
+				"gid": "63D965A36717C4E7CEA8629194EBFF12",
+				"size": "A7E2774D1ADFC7C2D750E624CB26A26D"
+			},
+			"thumper_pod_g": {
+				"download": "9442F71F797BB53B46A719A58057E7EC",
+				"gid": "6A8F88F1309CE739CDED287CA95636FA",
+				"size": "70E9ECA72A9CD79829A3A04A4F566A14"
+			},
+			"thumper_stewie_test": {
+				"download": "908C3F33841C27A44A0E7DE54BFCD698",
+				"gid": "B37473AFBD731136A87CD01A7A013D37",
+				"size": "139F7FEA06B173697191B4683D25F624"
+			}
+		},
+		"manifests": {}
+	},
+	"baselanguages": "english,german,french,italian,spanish,brazilian,latam",
+	"branches": {
+		"public": {
+			"buildid": "12976674",
+			"timeupdated": "1703013782"
+		},
+		"thumper_dev_development": {
+			"buildid": "13643848",
+			"pwdrequired": "1",
+			"timeupdated": "1709632447"
+		},
+		"thumper_dev_shipping": {
+			"buildid": "13643846",
+			"pwdrequired": "1",
+			"timeupdated": "1709632435"
+		},
+		"thumper_flatmode_development": {
+			"buildid": "13271621",
+			"pwdrequired": "1",
+			"timeupdated": "1706200757"
+		},
+		"thumper_flatmode_shipping": {
+			"buildid": "13634614",
+			"pwdrequired": "1",
+			"timeupdated": "1709573291"
+		},
+		"thumper_localization": {
+			"buildid": "12841346",
+			"pwdrequired": "1",
+			"timeupdated": "1701364108"
+		},
+		"thumper_main_development": {
+			"buildid": "12904067",
+			"pwdrequired": "1",
+			"timeupdated": "1701977959"
+		},
+		"thumper_main_shipping": {
+			"buildid": "12976674",
+			"pwdrequired": "1",
+			"timeupdated": "1702689442"
+		},
+		"thumper_misc_test": {
+			"buildid": "12874318",
+			"pwdrequired": "1",
+			"timeupdated": "1701737357"
+		},
+		"thumper_pax_development": {
+			"buildid": "12062111",
+			"pwdrequired": "1",
+			"timeupdated": "1693337839"
+		},
+		"thumper_pax_shipping": {
+			"buildid": "12062208",
+			"pwdrequired": "1",
+			"timeupdated": "1693338606"
+		},
+		"thumper_performance": {
+			"buildid": "12860173",
+			"pwdrequired": "1",
+			"timeupdated": "1701719173"
+		},
+		"thumper_performance_prev": {
+			"buildid": "12729840",
+			"pwdrequired": "1",
+			"timeupdated": "1701380014"
+		},
+		"thumper_pod_a": {
+			"buildid": "12822133",
+			"pwdrequired": "1",
+			"timeupdated": "1701210390"
+		},
+		"thumper_pod_b": {
+			"buildid": "12920722",
+			"pwdrequired": "1",
+			"timeupdated": "1702159064"
+		},
+		"thumper_pod_c": {
+			"buildid": "12884163",
+			"pwdrequired": "1",
+			"timeupdated": "1701816437"
+		},
+		"thumper_pod_d": {
+			"buildid": "12893157",
+			"pwdrequired": "1",
+			"timeupdated": "1701890900"
+		},
+		"thumper_pod_e": {
+			"buildid": "12976292",
+			"pwdrequired": "1",
+			"timeupdated": "1702674656"
+		},
+		"thumper_pod_f": {
+			"buildid": "12914930",
+			"pwdrequired": "1",
+			"timeupdated": "1702067750"
+		},
+		"thumper_pod_g": {
+			"buildid": "12865458",
+			"pwdrequired": "1",
+			"timeupdated": "1701659350"
+		},
+		"thumper_release_shipping": {
+			"buildid": "12964958",
+			"pwdrequired": "1",
+			"timeupdated": "1702579915"
+		},
+		"thumper_stewie_test": {
+			"buildid": "12836157",
+			"pwdrequired": "1",
+			"timeupdated": "1701327385"
+		}
+	}
+}

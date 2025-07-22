@@ -1,0 +1,9 @@
+{
+    "filter" : [
+        "public",
+        "thumper_flatmode_shipping",
+        "thumper_main_shipping",
+        "thumper_release_shipping",
+        "thumper_performance"
+    ]
+}

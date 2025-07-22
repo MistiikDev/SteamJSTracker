@@ -1,0 +1,31 @@
+{
+  "name": "twitterbot-webspy",
+  "version": "1.0.0",
+  "description": "Spys SBTV, Steam SDK's branches and depots from SB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JustAFrenchNoob",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "dotenv": "^16.0.3",
+    "fetch": "^1.1.0",
+    "html-compare": "^0.0.1",
+    "jimp": "^0.22.8",
+    "json-diff": "^1.0.6",
+    "node-cron": "^3.0.2",
+    "node-schedule": "^2.1.1",
+    "pastebin-api": "^7.0.0",
+    "puppeteer": "^19.11.1",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-anonymize-ua": "^2.4.6",
+    "puppeteer-extra-plugin-proxy": "^1.0.2",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "steam-user": "^4.28.1",
+    "tumblr.js": "^5.0.0",
+    "twitter-api-v2": "^1.14.2"
+  },
+  "type": "module"
+}
